@@ -10,7 +10,7 @@ Este e-book de 7 páginas explora o impacto revolucionário das IAs Generativas 
 - imagens no meio do e-book são da internet;
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Leonardo AI" foi usado para gerar a capa para o nosso e-book, peguei as imagens usadas no e-book na internet. Para concluir, a montagem final foi feita no Canva, por ser uma ferramenta open-source para edição de imagens e texto.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
