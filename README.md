@@ -13,10 +13,6 @@ Este e-book de 7 páginas explora o impacto revolucionário das IAs Generativas 
 Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Leonardo AI" foi usado para gerar a capa para o nosso e-book, peguei as imagens usadas no e-book na internet. Para concluir, a montagem final foi feita no Canva, por ser uma ferramenta open-source para edição de imagens e texto.
 
 ## 🚀 Resultados
-O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
+O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento, além de mostrar seus pontos negativos.
 
 [e-book ias generativas.pdf](https://github.com/user-attachments/files/15752769/e-book.ias.generativas.pdf)
-
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
